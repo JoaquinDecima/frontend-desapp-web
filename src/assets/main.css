@@ -7,10 +7,6 @@
 }
 
 body {
-  min-height: 100vh;
   color: var(--text-color);
   background: var(--background-g);
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
